@@ -1,0 +1,420 @@
+[
+  { 
+     "routeId": 28,
+     "routeDetail": "Path28-1-10", 
+     "startLoc": "1", 
+     "endLoc": "10", 
+     "routeUses": 1, 
+     "routeCoords": {
+         "start": [550,260], 
+         "end": [362.5,432.8571429] 
+     } 
+  },
+  { 
+     "routeId": 22,
+     "routeDetail": "Path22-10-18", 
+     "startLoc": "10", 
+     "endLoc": "18", 
+     "routeUses": 1, 
+     "routeCoords": {
+         "start": [362.5,432.8571429], 
+         "end": [612.5,527.1428571] 
+     } 
+  },
+  { 
+     "routeId": 13,
+     "routeDetail": "Path13-13-14", 
+     "startLoc": "13", 
+     "endLoc": "14", 
+     "routeUses": 1, 
+     "routeCoords": {
+         "start": [300,511.4285714], 
+         "end": [362.5,495.7142857] 
+     } 
+  },
+  { 
+     "routeId": 21,
+     "routeDetail": "Path21-15-9", 
+     "startLoc": "15", 
+     "endLoc": "9", 
+     "routeUses": 1, 
+     "routeCoords": {
+         "start": [675,511.4285714], 
+         "end": [362.5,370] 
+     } 
+  },
+  { 
+     "routeId": 14,
+     "routeDetail": "Path14-15-18", 
+     "startLoc": "15", 
+     "endLoc": "18", 
+     "routeUses": 1, 
+     "routeCoords": {
+         "start": [675,511.4285714], 
+         "end": [612.5,527.1428571] 
+     } 
+  },
+  { 
+     "routeId": 20,
+     "routeDetail": "Path20-16-12", 
+     "startLoc": "16", 
+     "endLoc": "12", 
+     "routeUses": 1, 
+     "routeCoords": {
+         "start": [737.5,527.1428571], 
+         "end": [675,448.5714286] 
+     } 
+  },
+  { 
+     "routeId": 8,
+     "routeDetail": "Path8-16-23", 
+     "startLoc": "16", 
+     "endLoc": "23", 
+     "routeUses": 1, 
+     "routeCoords": {
+         "start": [737.5,527.1428571], 
+         "end": [612.5,684.2857143] 
+     } 
+  },
+  { 
+     "routeId": 12,
+     "routeDetail": "Path12-16-27", 
+     "startLoc": "16", 
+     "endLoc": "27", 
+     "routeUses": 1, 
+     "routeCoords": {
+         "start": [737.5,527.1428571], 
+         "end": [737.5,574.2857143] 
+     } 
+  },
+  { 
+     "routeId": 18,
+     "routeDetail": "Path18-17-15", 
+     "startLoc": "17", 
+     "endLoc": "15", 
+     "routeUses": 1, 
+     "routeCoords": {
+         "start": [800,511.4285714], 
+         "end": [675,511.4285714] 
+     } 
+  },
+  { 
+     "routeId": 9,
+     "routeDetail": "Path9-18-20", 
+     "startLoc": "18", 
+     "endLoc": "20", 
+     "routeUses": 1, 
+     "routeCoords": {
+         "start": [612.5,527.1428571], 
+         "end": [596.875,637.1428571] 
+     } 
+  },
+  { 
+     "routeId": 10,
+     "routeDetail": "Path10-18-25", 
+     "startLoc": "18", 
+     "endLoc": "25", 
+     "routeUses": 1, 
+     "routeCoords": {
+         "start": [612.5,527.1428571], 
+         "end": [675,574.2857143] 
+     } 
+  },
+  { 
+     "routeId": 4,
+     "routeDetail": "Path4-21-24", 
+     "startLoc": "21", 
+     "endLoc": "24", 
+     "routeUses": 1, 
+     "routeCoords": {
+         "start": [690.625,637.1428571], 
+         "end": [675,700] 
+     } 
+  },
+  { 
+     "routeId": 2,
+     "routeDetail": "Path2-23-12", 
+     "startLoc": "23", 
+     "endLoc": "12", 
+     "routeUses": 1, 
+     "routeCoords": {
+         "start": [612.5,684.2857143], 
+         "end": [675,448.5714286] 
+     } 
+  },
+  { 
+     "routeId": 1,
+     "routeDetail": "Path1-24-23", 
+     "startLoc": "24", 
+     "endLoc": "23", 
+     "routeUses": 1, 
+     "routeCoords": {
+         "start": [675,700], 
+         "end": [612.5,684.2857143] 
+     } 
+  },
+  { 
+     "routeId": 7,
+     "routeDetail": "Path7-26-16", 
+     "startLoc": "26", 
+     "endLoc": "16", 
+     "routeUses": 1, 
+     "routeCoords": {
+         "start": [800,558.5714286], 
+         "end": [737.5,527.1428571] 
+     } 
+  },
+  { 
+     "routeId": 33,
+     "routeDetail": "Path33-1-5", 
+     "startLoc": "1", 
+     "endLoc": "5", 
+     "routeUses": 2, 
+     "routeCoords": {
+         "start": [550,260], 
+         "end": [487.5,275.7142857] 
+     } 
+  },
+  { 
+     "routeId": 46,
+     "routeDetail": "Path46-3-4", 
+     "startLoc": "3", 
+     "endLoc": "4", 
+     "routeUses": 2, 
+     "routeCoords": {
+         "start": [362.5,275.7142857], 
+         "end": [425,260] 
+     } 
+  },
+  { 
+     "routeId": 30,
+     "routeDetail": "Path30-4-5", 
+     "startLoc": "4", 
+     "endLoc": "5", 
+     "routeUses": 2, 
+     "routeCoords": {
+         "start": [425,260], 
+         "end": [487.5,275.7142857] 
+     } 
+  },
+  { 
+     "routeId": 44,
+     "routeDetail": "Path44-4-7", 
+     "startLoc": "4", 
+     "endLoc": "7", 
+     "routeUses": 2, 
+     "routeCoords": {
+         "start": [425,260], 
+         "end": [425,338.5714286] 
+     } 
+  },
+  { 
+     "routeId": 29,
+     "routeDetail": "Path29-5-8", 
+     "startLoc": "5", 
+     "endLoc": "8", 
+     "routeUses": 2, 
+     "routeCoords": {
+         "start": [487.5,275.7142857], 
+         "end": [487.5,338.5714286] 
+     } 
+  },
+  { 
+     "routeId": 41,
+     "routeDetail": "Path41-7-9", 
+     "startLoc": "7", 
+     "endLoc": "9", 
+     "routeUses": 2, 
+     "routeCoords": {
+         "start": [425,338.5714286], 
+         "end": [362.5,370] 
+     } 
+  },
+  { 
+     "routeId": 39,
+     "routeDetail": "Path39-12-17", 
+     "startLoc": "12", 
+     "endLoc": "17", 
+     "routeUses": 2, 
+     "routeCoords": {
+         "start": [675,448.5714286], 
+         "end": [800,511.4285714] 
+     } 
+  },
+  { 
+     "routeId": 37,
+     "routeDetail": "Path37-14-10", 
+     "startLoc": "14", 
+     "endLoc": "10", 
+     "routeUses": 2, 
+     "routeCoords": {
+         "start": [362.5,495.7142857], 
+         "end": [362.5,432.8571429] 
+     } 
+  },
+  { 
+     "routeId": 15,
+     "routeDetail": "Path15-15-16", 
+     "startLoc": "15", 
+     "endLoc": "16", 
+     "routeUses": 2, 
+     "routeCoords": {
+         "start": [675,511.4285714], 
+         "end": [737.5,527.1428571] 
+     } 
+  },
+  { 
+     "routeId": 11,
+     "routeDetail": "Path11-15-25", 
+     "startLoc": "15", 
+     "endLoc": "25", 
+     "routeUses": 2, 
+     "routeCoords": {
+         "start": [675,511.4285714], 
+         "end": [675,574.2857143] 
+     } 
+  },
+  { 
+     "routeId": 43,
+     "routeDetail": "Path43-3-6", 
+     "startLoc": "3", 
+     "endLoc": "6", 
+     "routeUses": 3, 
+     "routeCoords": {
+         "start": [362.5,275.7142857], 
+         "end": [346.875,322.8571429] 
+     } 
+  },
+  { 
+     "routeId": 42,
+     "routeDetail": "Path42-6-7", 
+     "startLoc": "6", 
+     "endLoc": "7", 
+     "routeUses": 3, 
+     "routeCoords": {
+         "start": [346.875,322.8571429], 
+         "end": [425,338.5714286] 
+     } 
+  },
+  { 
+     "routeId": 40,
+     "routeDetail": "Path40-10-11", 
+     "startLoc": "10", 
+     "endLoc": "11", 
+     "routeUses": 3, 
+     "routeCoords": {
+         "start": [362.5,432.8571429], 
+         "end": [425,432.8571429] 
+     } 
+  },
+  { 
+     "routeId": 38,
+     "routeDetail": "Path38-10-13", 
+     "startLoc": "10", 
+     "endLoc": "13", 
+     "routeUses": 3, 
+     "routeCoords": {
+         "start": [362.5,432.8571429], 
+         "end": [300,511.4285714] 
+     } 
+  },
+  { 
+     "routeId": 17,
+     "routeDetail": "Path17-16-17", 
+     "startLoc": "16", 
+     "endLoc": "17", 
+     "routeUses": 4, 
+     "routeCoords": {
+         "start": [737.5,527.1428571], 
+         "end": [800,511.4285714] 
+     } 
+  },
+  { 
+     "routeId": 35,
+     "routeDetail": "Path35-19-20", 
+     "startLoc": "19", 
+     "endLoc": "20", 
+     "routeUses": 4, 
+     "routeCoords": {
+         "start": [550,652.8571429], 
+         "end": [596.875,637.1428571] 
+     } 
+  },
+  { 
+     "routeId": 50,
+     "routeDetail": "Path50-20-21", 
+     "startLoc": "20", 
+     "endLoc": "21", 
+     "routeUses": 4, 
+     "routeCoords": {
+         "start": [596.875,637.1428571], 
+         "end": [690.625,637.1428571] 
+     } 
+  },
+  { 
+     "routeId": 3,
+     "routeDetail": "Path3-20-23", 
+     "startLoc": "20", 
+     "endLoc": "23", 
+     "routeUses": 4, 
+     "routeCoords": {
+         "start": [596.875,637.1428571], 
+         "end": [612.5,684.2857143] 
+     } 
+  },
+  { 
+     "routeId": 45,
+     "routeDetail": "Path45-1-8", 
+     "startLoc": "1", 
+     "endLoc": "8", 
+     "routeUses": 5, 
+     "routeCoords": {
+         "start": [550,260], 
+         "end": [487.5,338.5714286] 
+     } 
+  },
+  { 
+     "routeId": 24,
+     "routeDetail": "Path24-6-9", 
+     "startLoc": "6", 
+     "endLoc": "9", 
+     "routeUses": 5, 
+     "routeCoords": {
+         "start": [346.875,322.8571429], 
+         "end": [362.5,370] 
+     } 
+  },
+  { 
+     "routeId": 34,
+     "routeDetail": "Path34-22-23", 
+     "startLoc": "22", 
+     "endLoc": "23", 
+     "routeUses": 5, 
+     "routeCoords": {
+         "start": [550,700], 
+         "end": [612.5,684.2857143] 
+     } 
+  },
+  { 
+     "routeId": 56,
+     "routeDetail": "Path56-2-3", 
+     "startLoc": "2", 
+     "endLoc": "3", 
+     "routeUses": 7, 
+     "routeCoords": {
+         "start": [300,260], 
+         "end": [362.5,275.7142857] 
+     } 
+  },
+  { 
+     "routeId": 54,
+     "routeDetail": "Path54-26-27", 
+     "startLoc": "26", 
+     "endLoc": "27", 
+     "routeUses": 9, 
+     "routeCoords": {
+         "start": [800,558.5714286], 
+         "end": [737.5,574.2857143] 
+     } 
+  }
+]
