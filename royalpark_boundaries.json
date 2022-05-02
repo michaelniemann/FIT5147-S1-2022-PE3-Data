@@ -1,0 +1,39 @@
+{
+	"type": "FeatureCollection",
+	"name": "royalpark_boundaries",
+	"crs": {
+		"type": "name",
+		"properties": {
+			"name": "urn:ogc:def:crs:EPSG::4283"
+		}
+	},
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"fid": 1,
+				"name": "Royal Park boundary",
+				"address": "Parkville",
+				"type": 1,
+				"img": ""
+			},
+			"geometry": {
+				"type": "MultiPolygon",
+				"coordinates": [[[[144.942, -37.782], [144.948, -37.782], [144.948, -37.777], [144.958, -37.777], [144.958, -37.792], [144.954, -37.796], [144.950, -37.796], [144.942, -37.790], [144.942, -37.782]]]]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"fid": 2,
+				"name": "Royal Melbourne Zoo",
+				"address": "Parkville",
+				"type": 2,
+				"img": "<img src='./data/images/buildings/zoo.png'></img>"
+			},
+			"geometry": {
+				"type": "MultiPolygon",
+				"coordinates": [[[[144.951, -37.788], [144.949, -37.786], [144.949, -37.784], [144.951, -37.782], [ 144.953, -37.782], [144.955, -37.784], [144.951, -37.788]]]]
+			}
+		}]
+}

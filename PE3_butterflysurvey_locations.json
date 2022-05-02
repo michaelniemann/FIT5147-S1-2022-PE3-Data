@@ -1,0 +1,299 @@
+[
+  {
+     "locationName": "Location4_1",
+     "locationNo": 1,
+     "regionId": 4,
+     "visits": 108,
+     "butterflyCount": 3,
+     "coord": [
+         550,
+         260
+     ]
+  },
+  {
+     "locationName": "Location6_2",
+     "locationNo": 2,
+     "regionId": 6,
+     "visits": 24,
+     "butterflyCount": 0,
+     "coord": [
+         300,
+         260
+     ]
+  },
+  {
+     "locationName": "Location6_3",
+     "locationNo": 3,
+     "regionId": 6,
+     "visits": 68,
+     "butterflyCount": 3,
+     "coord": [
+         362.5,
+         275.7142857
+     ]
+  },
+  {
+     "locationName": "Location5_4",
+     "locationNo": 4,
+     "regionId": 5,
+     "visits": 52,
+     "butterflyCount": 0,
+     "coord": [
+         425,
+         260
+     ]
+  },
+  {
+     "locationName": "Location5_5",
+     "locationNo": 5,
+     "regionId": 5,
+     "visits": 24,
+     "butterflyCount": 1,
+     "coord": [
+         487.5,
+         275.7142857
+     ]
+  },
+  {
+     "locationName": "Location2_6",
+     "locationNo": 6,
+     "regionId": 2,
+     "visits": 48,
+     "butterflyCount": 2,
+     "coord": [
+         346.875,
+         322.8571429
+     ]
+  },
+  {
+     "locationName": "Location5_7",
+     "locationNo": 7,
+     "regionId": 5,
+     "visits": 48,
+     "butterflyCount": 1,
+     "coord": [
+         425,
+         338.5714286
+     ]
+  },
+  {
+     "locationName": "Location4_8",
+     "locationNo": 8,
+     "regionId": 4,
+     "visits": 32,
+     "butterflyCount": 2,
+     "coord": [
+         487.5,
+         338.5714286
+     ]
+  },
+  {
+     "locationName": "Location2_9",
+     "locationNo": 9,
+     "regionId": 2,
+     "visits": 24,
+     "butterflyCount": 0,
+     "coord": [
+         362.5,
+         370
+     ]
+  },
+  {
+     "locationName": "Location8_10",
+     "locationNo": 10,
+     "regionId": 8,
+     "visits": 36,
+     "butterflyCount": 3,
+     "coord": [
+         362.5,
+         432.8571429
+     ]
+  },
+  {
+     "locationName": "Location8_11",
+     "locationNo": 11,
+     "regionId": 8,
+     "visits": 12,
+     "butterflyCount": 0,
+     "coord": [
+         425,
+         432.8571429
+     ]
+  },
+  {
+     "locationName": "Location7_12",
+     "locationNo": 12,
+     "regionId": 7,
+     "visits": 8,
+     "butterflyCount": 0,
+     "coord": [
+         675,
+         448.5714286
+     ]
+  },
+  {
+     "locationName": "Location8_13",
+     "locationNo": 13,
+     "regionId": 8,
+     "visits": 24,
+     "butterflyCount": 0,
+     "coord": [
+         300,
+         511.4285714
+     ]
+  },
+  {
+     "locationName": "Location8_14",
+     "locationNo": 14,
+     "regionId": 8,
+     "visits": 20,
+     "butterflyCount": 0,
+     "coord": [
+         362.5,
+         495.7142857
+     ]
+  },
+  {
+     "locationName": "Location1_15",
+     "locationNo": 15,
+     "regionId": 1,
+     "visits": 16,
+     "butterflyCount": 2,
+     "coord": [
+         675,
+         511.4285714
+     ]
+  },
+  {
+     "locationName": "Location7_16",
+     "locationNo": 16,
+     "regionId": 7,
+     "visits": 68,
+     "butterflyCount": 0,
+     "coord": [
+         737.5,
+         527.1428571
+     ]
+  },
+  {
+     "locationName": "Location7_17",
+     "locationNo": 17,
+     "regionId": 7,
+     "visits": 44,
+     "butterflyCount": 3,
+     "coord": [
+         800,
+         511.4285714
+     ]
+  },
+  {
+     "locationName": "Location1_18",
+     "locationNo": 18,
+     "regionId": 1,
+     "visits": 8,
+     "butterflyCount": 1,
+     "coord": [
+         612.5,
+         527.1428571
+     ]
+  },
+  {
+     "locationName": "Location3_19",
+     "locationNo": 19,
+     "regionId": 3,
+     "visits": 28,
+     "butterflyCount": 2,
+     "coord": [
+         550,
+         652.8571429
+     ]
+  },
+  {
+     "locationName": "Location3_20",
+     "locationNo": 20,
+     "regionId": 3,
+     "visits": 64,
+     "butterflyCount": 2,
+     "coord": [
+         596.875,
+         637.1428571
+     ]
+  },
+  {
+     "locationName": "Location3_21",
+     "locationNo": 21,
+     "regionId": 3,
+     "visits": 12,
+     "butterflyCount": 0,
+     "coord": [
+         690.625,
+         637.1428571
+     ]
+  },
+  {
+     "locationName": "Location3_22",
+     "locationNo": 22,
+     "regionId": 3,
+     "visits": 12,
+     "butterflyCount": 2,
+     "coord": [
+         550,
+         700
+     ]
+  },
+  {
+     "locationName": "Location3_23",
+     "locationNo": 23,
+     "regionId": 3,
+     "visits": 144,
+     "butterflyCount": 19,
+     "coord": [
+         612.5,
+         684.2857143
+     ]
+  },
+  {
+     "locationName": "Location3_24",
+     "locationNo": 24,
+     "regionId": 3,
+     "visits": 4,
+     "butterflyCount": 2,
+     "coord": [
+         675,
+         700
+     ]
+  },
+  {
+     "locationName": "Location1_25",
+     "locationNo": 25,
+     "regionId": 1,
+     "visits": 20,
+     "butterflyCount": 3,
+     "coord": [
+         675,
+         574.2857143
+     ]
+  },
+  {
+     "locationName": "Location9_26",
+     "locationNo": 26,
+     "regionId": 9,
+     "visits": 84,
+     "butterflyCount": 4,
+     "coord": [
+         800,
+         558.5714286
+     ]
+  },
+  {
+     "locationName": "Location9_27",
+     "locationNo": 27,
+     "regionId": 9,
+     "visits": 96,
+     "butterflyCount": 5,
+     "coord": [
+         737.5,
+         574.2857143
+     ]
+  }
+]
